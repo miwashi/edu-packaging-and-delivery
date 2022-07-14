@@ -11,4 +11,6 @@
       Moment_6(e) --> Moment_7
       Moment_7(End)
 ```
-
+:blush:
+:smirk:
+https://gist.github.com/rxaviers/7360908
